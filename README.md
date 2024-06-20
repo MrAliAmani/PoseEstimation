@@ -389,13 +389,13 @@ Deep learning 3 dimensional algorithms on image data can outperform sensor data 
 
 1. **[3D human pose estimation in video with temporal convolutions and semi-supervised training](https://arxiv.org/abs/1811.11742)** paper from Dario Pavllo et al.
 
-1. **[OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1812.08008)** paper from Zhe Cao et al.
+2. **[OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1812.08008)** paper from Zhe Cao et al.
 
-1. **[Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050)** paper from Zhe Cao et al.
+3. **[Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050)** paper from Zhe Cao et al.
 
-1. **[Hand Keypoint Detection in Single Images using Multiview Bootstrapping](https://arxiv.org/abs/1704.07809)** paper from Tomas Simon et al.
+4. **[Hand Keypoint Detection in Single Images using Multiview Bootstrapping](https://arxiv.org/abs/1704.07809)** paper from Tomas Simon et al.
 
-1. **[Convolutional Pose Machines](https://arxiv.org/abs/1602.00134)** paper from Shih-En Wei et al.
+5. **[Convolutional Pose Machines](https://arxiv.org/abs/1602.00134)** paper from Shih-En Wei et al.
 
 ## License
 
